@@ -1,0 +1,4 @@
+/home/shanchuan/Reaction/build/CMakeFiles/runTests.dir
+/home/shanchuan/Reaction/build/CMakeFiles/test.dir
+/home/shanchuan/Reaction/build/CMakeFiles/edit_cache.dir
+/home/shanchuan/Reaction/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/shanchuan/Reaction/build",
+  "command": "/usr/bin/g++  -I/home/shanchuan/Reaction/include -g -std=gnu++20 -Wall -Wextra -pedantic -fno-rtti -std=c++2a -DGTEST_HAS_PTHREAD=1 -o CMakeFiles/runTests.dir/test/test.cpp.o -c /home/shanchuan/Reaction/test/test.cpp",
+  "file": "/home/shanchuan/Reaction/test/test.cpp",
+  "output": "CMakeFiles/runTests.dir/test/test.cpp.o"
+}
+]
